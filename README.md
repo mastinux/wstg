@@ -9,4 +9,5 @@
 
 - [Conduct Search Engine Discovery Reconnaissance for
 Information Leakage](./WSTG/WSTG-INFO-01.md)
-- #TODO 52
+- [Fingerprint Web Server](./WSTG/WSTG-INFO-02.md)
+- #TODO 56
