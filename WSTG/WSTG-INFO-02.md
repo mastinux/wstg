@@ -1,3 +1,5 @@
+# WSTG-INFO-02
+
 # Fingerprint Web Server
 
 ## Summary
