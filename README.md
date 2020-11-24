@@ -12,4 +12,5 @@ Information Leakage](./WSTG/WSTG-INFO-01.md)
 - [Fingerprint Web Server](./WSTG/WSTG-INFO-02.md)
 - [Review Webserver Metafiles for Information Leakage](./WSTG/WSTG-INFO-03.md)
 - [Enumerate Applications on Webserver](./WSTG/WSTG-INFO-04.md)
-- #TODO 66
+- [Review Webpage Comments and Metadata for Information Leakage](./WSTG/WSTG-INFO-05.md)
+- #TODO 68
