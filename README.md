@@ -13,4 +13,5 @@ Information Leakage](./WSTG/WSTG-INFO-01.md)
 - [Review Webserver Metafiles for Information Leakage](./WSTG/WSTG-INFO-03.md)
 - [Enumerate Applications on Webserver](./WSTG/WSTG-INFO-04.md)
 - [Review Webpage Comments and Metadata for Information Leakage](./WSTG/WSTG-INFO-05.md)
-- #TODO 68
+- [Identify Application Entry Points](./WSTG/WSTG-INFO-06.md)
+- #TODO 72
