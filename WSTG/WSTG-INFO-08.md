@@ -61,7 +61,7 @@ X-Powered-By: Mono
 Dal campo `X-Powered-By`, capiamo che il web framework dovrebbe essere Mono.
 Comunque, anche se questo approccio è semplice e veloce, questa metodologia non funziona nel 100% dei casi.
 È possibile disabilitare facilmente l'header `X-Powered-By` tramite una configurazione appropriata.
-Ci sono anche altre tecniche che permettono al sito web di offuscare gli header HTTP (vedi la sezione Remediations).
+Ci sono anche altre tecniche che permettono al sito web di offuscare gli header HTTP (vedi la sezione Remediation).
 
 Quindi nello stesso esempio il tester potrebbe non trovare l'header `X-Powered-By` o ottenere una risposta simile alla seguente:
 

@@ -15,7 +15,8 @@ Information Leakage](./WSTG/WSTG-INFO-01.md)
 - [Identify Application Entry Points](./WSTG/WSTG-INFO-06.md)
 - [Map Execution Path Through Application](./WSTG/WSTG-INFO-07.md)
 - [Fingerprint Web Application Framework](./WSTG/WSTG-INFO-08.md)
-- #TODO 81
+- [Fingerprint Web Application](./WSTG/WSTG-INFO-09.md)
+- #TODO 89
 
 ## Configuration and Deployment Management Testing
 
