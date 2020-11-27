@@ -16,11 +16,11 @@ Information Leakage](./WSTG/WSTG-INFO-01.md)
 - [Map Execution Path Through Application](./WSTG/WSTG-INFO-07.md)
 - [Fingerprint Web Application Framework](./WSTG/WSTG-INFO-08.md)
 - [Fingerprint Web Application](./WSTG/WSTG-INFO-09.md)
-- #TODO 89
+- [Map Application Architecture](./WSTG/WSTG-INFO-10.md)
 
 ## Configuration and Deployment Management Testing
 
-- #TODO
+- #TODO 91
 
 ## Identity Management Testing
 
