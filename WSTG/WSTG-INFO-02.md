@@ -186,7 +186,7 @@ Per queste ragioni, i tool automatizzati dovrebbero produrre risultati più accu
 
 Ecco alcuni tool di scan comunemente usati che includono le funzionalità di fingerprinting di web server.
 
-- netcraft
+- netcraft.com
 - nikto
 - nmap
 

@@ -27,10 +27,10 @@ Capire quali informazioni sensibili su design e configurazione dell'applicazione
 Usa un motore di ricerca per cercare informazioni potenzialmente sensibili.
 Queste potrebbero essere:
 
-- diagrammi e configurazioni di rete;
-- post ed email archiviati da amministratori o da altro staff;
-- log su procedure e formato dell'username;
-- username, password, e chiavi private;
+- diagrammi e configurazioni di rete
+- post ed email archiviati da amministratori o da altro staff
+- log su procedure e formato dell'username
+- username, password, e chiavi private
 - file di configurazione di terze parti, o servizi cloud
 - contenuti che rivelano messaggi di errore
 - versioni di sviluppo, di test, di User Acceptance Testing (UAT), e di staging del sito web
@@ -77,7 +77,7 @@ Per vedere il contenuto di owasp.org tenuto in cache, la sintassi è `cache:owas
 
 La ricerca con gli operator può essere una tecnica di discovery reconnaissance molto efficace se combinata con la creatività del tester.
 I search operator possono essere concatenati per scoprire file e informazioni sensibili specifici.
-Questa tecnica, chiamata Google hacking o Google dorking, può essere usata anche con altro motori di ricerca, se i relativi search operator sono supportati.
+Questa tecnica, chiamata Google hacking o Google dorking, può essere usata anche con altri motori di ricerca, se i relativi search operator sono supportati.
 
 Un database di dork, come Google Hacking Database, è una risorsa utile che può aiutare a individuare informazioni specifiche.
 Alcune categorie di dork disponibili in questo database includono:

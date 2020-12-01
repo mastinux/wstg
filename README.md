@@ -20,7 +20,8 @@ Information Leakage](./WSTG/WSTG-INFO-01.md)
 
 ## Configuration and Deployment Management Testing
 
-- #TODO 91
+- [Test Network Infrastructure Configuration](./WSTG/WSTG-CONF-10.md)
+- #TODO 95
 
 ## Identity Management Testing
 
