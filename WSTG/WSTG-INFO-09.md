@@ -4,9 +4,9 @@
 
 ## Summary
 
-Data la vastità dei progetti software free o open source distribuiti, è molto probabile che il sito target sia interamente o in parte sviluppato con app ben conosciute (es. Wordpress, phpBB, Mediawiki, etc.).
+Data la vastità dei progetti software free o open source distribuiti, è molto probabile che il sito target sia interamente o in parte sviluppato con app note (es. Wordpress, phpBB, Mediawiki, etc.).
 Conoscendo i componenti della web app che stiamo testando ci può aiutare nel processo di testing e ridurrà drasticamente lo sforzo richiesto durante i test.
-Queste web app ben conosciute hanno di conseguenza header HTML, cookie, e strutture di directory note che possono essere enumerate per identificare l'app.
+Queste web app note hanno di conseguenza header HTML, cookie, e strutture di directory note che possono essere enumerate per identificare l'app.
 
 ## Test Objectives
 
@@ -113,7 +113,7 @@ Tuttavia, esistono diverse liste di file noti e un buon esempio è la [wordlist]
 
 ## Tools
 
-Di seguito viene presentata una lista di tool generali e ben conosciuti.
+Di seguito viene presentata una lista di tool generali e noti.
 Ci sono anche altre utility, come anche tool di fingerprinting basati su framework particolari.
 
 ### WhatWeb
