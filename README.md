@@ -24,7 +24,8 @@ Information Leakage](./WSTG/WSTG-INFO-01.md)
 - [Test Application Platform Configuration](./WSTG/WSTG-CONF-02.md)
 - [Test File Extensions Handling for Sensitive Information](./WSTG/WSTG-CONF-03.md)
 - [Review Old Backup and Unreferenced Files for Sensitive Information](./WSTG/WSTG-CONF-04.md)
-- #TODO 110
+- [Enumerate Infrastructure and Application Admin Interfaces](./WSTG/WSTG-CONF-05.md)
+- #TODO 113
 
 ## Identity Management Testing
 
