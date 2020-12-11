@@ -27,7 +27,8 @@ Information Leakage](./WSTG/WSTG-INFO-01.md)
 - [Enumerate Infrastructure and Application Admin Interfaces](./WSTG/WSTG-CONF-05.md)
 - [Test HTTP Methods](./WSTG/WSTG-CONF-06.md)
 - [Test HTTP Strict Transport Security](./WSTG/WSTG-CONF-07.md)
-- #TODO 119
+- [Test RIA Cross Domain Policy](./WSTG/WSTG-CONF-08.md)
+- #TODO 121
 
 ## Identity Management Testing
 
