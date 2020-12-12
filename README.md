@@ -29,11 +29,12 @@ Information Leakage](./WSTG/WSTG-INFO-01.md)
 - [Test HTTP Strict Transport Security](./WSTG/WSTG-CONF-07.md)
 - [Test RIA Cross Domain Policy](./WSTG/WSTG-CONF-08.md)
 - [Test File Permission](./WSTG/WSTG-CONF-09.md)
-- #TODO 126
+- [Test for Subdomain Takeover](./WSTG/WSTG-CONF-10.md)
+- [Test Cloud Storage](./WSTG/WSTG-CONF-11.md)
 
 ## Identity Management Testing
 
-- #TODO
+- #TODO 130
 
 ## Authentication Testing
 
