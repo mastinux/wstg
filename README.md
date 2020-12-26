@@ -35,6 +35,7 @@ Information Leakage](./WSTG/WSTG-INFO-01.md)
 ## Identity Management Testing
 
 - [Test Role Definitions](./WSTG/WSTG-IDNT-01.md)
+- [Test User Registration Process](./WSTG/WSTG-IDNT-02.md)
 - #TODO 132
 
 ## Authentication Testing
