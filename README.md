@@ -39,11 +39,11 @@ Information Leakage](./WSTG/WSTG-INFO-01.md)
 - [Test Account Provisioning Process](./WSTG/WSTG-IDNT-03.md)
 - [Testing for Account Enumeration and Guessable User
 Account](./WSTG/WSTG-IDNT-04.md)
-- #TODO 141
+- [Testing for Weak or Unenforced Username Policy](./WSTG/WSTG-IDNT-05.md)
 
 ## Authentication Testing
 
-- #TODO
+- #TODO 143
 
 ## Authorization Testing
 
