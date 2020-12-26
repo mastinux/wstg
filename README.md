@@ -37,7 +37,9 @@ Information Leakage](./WSTG/WSTG-INFO-01.md)
 - [Test Role Definitions](./WSTG/WSTG-IDNT-01.md)
 - [Test User Registration Process](./WSTG/WSTG-IDNT-02.md)
 - [Test Account Provisioning Process](./WSTG/WSTG-IDNT-03.md)
-- #TODO 136
+- [Testing for Account Enumeration and Guessable User
+Account](./WSTG/WSTG-IDNT-04.md)
+- #TODO 141
 
 ## Authentication Testing
 
