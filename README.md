@@ -43,7 +43,8 @@ Account](./WSTG/WSTG-IDNT-04.md)
 
 ## Authentication Testing
 
-- #TODO 143
+- [Testing for Credentials Transported over an Encrypted Channel](./WSTG/WSTG-ATHN-01.md)
+- #TODO 146
 
 ## Authorization Testing
 
