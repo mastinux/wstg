@@ -45,7 +45,8 @@ Account](./WSTG/WSTG-IDNT-04.md)
 
 - [Testing for Credentials Transported over an Encrypted Channel](./WSTG/WSTG-ATHN-01.md)
 - [Testing for Default Credentials](./WSTG/WSTG-ATHN-02.md)
-- #TODO 149
+- [Testing for Weak Lock Out Mechanism](./WSTG/WSTG-ATHN-03.md)
+- #TODO 151
 
 ## Authorization Testing
 
