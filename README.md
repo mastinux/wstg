@@ -49,7 +49,8 @@ Account](./WSTG/WSTG-IDNT-04.md)
 - [Testing for Bypassing Authentication Schema](./WSTG/WSTG-ATHN-04.md)
 - [Testing for Vulnerable Remember Password](./WSTG/WSTG-ATHN-05.md)
 - [Testing for Browser Cache Weaknesses](./WSTG/WSTG-ATHN-06.md)
-- #TODO 161
+- [Testing for Weak Password Policy](./WSTG/WSTG-ATHN-07.md)
+- #TODO 162
 
 TODO https://github.com/WebGoat/WebGoat/releases/tag/v8.1.0
 
