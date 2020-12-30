@@ -46,7 +46,10 @@ Account](./WSTG/WSTG-IDNT-04.md)
 - [Testing for Credentials Transported over an Encrypted Channel](./WSTG/WSTG-ATHN-01.md)
 - [Testing for Default Credentials](./WSTG/WSTG-ATHN-02.md)
 - [Testing for Weak Lock Out Mechanism](./WSTG/WSTG-ATHN-03.md)
-- #TODO 151
+- [Testing for Bypassing Authentication Schema](./WSTG/WSTG-ATHN-04.md)
+- #TODO 157
+
+TODO https://github.com/WebGoat/WebGoat/releases/tag/v8.1.0
 
 ## Authorization Testing
 
