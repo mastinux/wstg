@@ -47,7 +47,8 @@ Account](./WSTG/WSTG-IDNT-04.md)
 - [Testing for Default Credentials](./WSTG/WSTG-ATHN-02.md)
 - [Testing for Weak Lock Out Mechanism](./WSTG/WSTG-ATHN-03.md)
 - [Testing for Bypassing Authentication Schema](./WSTG/WSTG-ATHN-04.md)
-- #TODO 157
+- [Testing for Vulnerable Remember Password](./WSTG/WSTG-ATHN-05.md)
+- #TODO 158
 
 TODO https://github.com/WebGoat/WebGoat/releases/tag/v8.1.0
 
