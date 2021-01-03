@@ -51,7 +51,8 @@ Account](./WSTG/WSTG-IDNT-04.md)
 - [Testing for Browser Cache Weaknesses](./WSTG/WSTG-ATHN-06.md)
 - [Testing for Weak Password Policy](./WSTG/WSTG-ATHN-07.md)
 - [Testing for Weak Security Question Answer](./WSTG/WSTG-ATHN-08.md)
-- #TODO 164
+- [Testing for Weak Password Change or Reset Functionalities](./WSTG/WSTG-ATHN-09.md)
+- #TODO 166
 
 TODO https://github.com/WebGoat/WebGoat/releases/tag/v8.1.0
 
