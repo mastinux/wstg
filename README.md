@@ -52,13 +52,13 @@ Account](./WSTG/WSTG-IDNT-04.md)
 - [Testing for Weak Password Policy](./WSTG/WSTG-ATHN-07.md)
 - [Testing for Weak Security Question Answer](./WSTG/WSTG-ATHN-08.md)
 - [Testing for Weak Password Change or Reset Functionalities](./WSTG/WSTG-ATHN-09.md)
-- #TODO 166
+- [Testing for Weaker Authentication in Alternative Channel](./WSTG/WSTG-ATHN-10.md)
 
 TODO https://github.com/WebGoat/WebGoat/releases/tag/v8.1.0
 
 ## Authorization Testing
 
-- #TODO
+- #TODO 170
 
 ## Session Management Testing
 
