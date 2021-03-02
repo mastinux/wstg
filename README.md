@@ -54,11 +54,10 @@ Account](./WSTG/WSTG-IDNT-04.md)
 - [Testing for Weak Password Change or Reset Functionalities](./WSTG/WSTG-ATHN-09.md)
 - [Testing for Weaker Authentication in Alternative Channel](./WSTG/WSTG-ATHN-10.md)
 
-TODO https://github.com/WebGoat/WebGoat/releases/tag/v8.1.0
-
 ## Authorization Testing
 
-- #TODO 170
+- [Testing Directory Traversal File Include](./WSTG/WSTG-ATHZ-01.md)
+- #TODO 175
 
 ## Session Management Testing
 
