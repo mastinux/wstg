@@ -57,7 +57,8 @@ Account](./WSTG/WSTG-IDNT-04.md)
 ## Authorization Testing
 
 - [Testing Directory Traversal File Include](./WSTG/WSTG-ATHZ-01.md)
-- #TODO 175
+- [Testing for Bypassing Authorization Schema](./WSTG/WSTG-ATHZ-02.md)
+- #TODO 177
 
 ## Session Management Testing
 
