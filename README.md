@@ -59,11 +59,11 @@ Account](./WSTG/WSTG-IDNT-04.md)
 - [Testing Directory Traversal File Include](./WSTG/WSTG-ATHZ-01.md)
 - [Testing for Bypassing Authorization Schema](./WSTG/WSTG-ATHZ-02.md)
 - [Testing for Privilege Escalation](./WSTG/WSTG-ATHZ-03.md)
-- #TODO 180
+- [Testing for Insecure Direct Object References](./WSTG/WSTG-ATHZ-04.md)
 
 ## Session Management Testing
 
-- #TODO
+- #TODO 183
 
 ## Input Validation Testing
 

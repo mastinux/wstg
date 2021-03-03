@@ -4,8 +4,8 @@
 
 ## Summary
 
-Questa sezione descrive il problema della privilege escalation da un livello a un altro.
-Durante questa fase, il tester dovrebbe verificare che per un utente non sia possibile modificare i propri privilegi o ruoli nell'app in modo da realizzare attacchi di privilege escalation.
+Questa sezione descrive il problema dell'escalation da un livello a un altro di privilegi.
+Durante questa fase, il tester dovrebbe verificare che per un utente non sia possibile modificare i propri privilegi o ruoli nell'app.
 
 La privilege escalation si verifica quando un utente ottiene l'accesso a più risorse o più funzionalità rispetto a quelle che gli sono normalemnte consentite, 
 e tali cambiamenti dovrebbero essere impediti dall'app.
@@ -14,7 +14,7 @@ Il risultato è che l'app esegue azioni con privilegi più elevati rispetto a qu
 
 Il grado di escalation dipende da quali privilegi l'attaccante è autorizzato a possedere, e quali privilegi possono essere ottenuti a seguito di un exploit.
 Per esempio, un errore di programmazione che consente a un utente di ottenere privilegi extra dopo l'autenticazione limita il grado di escalation, dato che l'utente è già autorizzato ad avere alcuni privilegi.
-Allo stesso modo, un attaccante remoto che ottiene privilegi da superuser senza alcuna autenticazione presenta un grado di escalation più grande.
+Allo stesso modo, un attaccante remoto che ottiene privilegi da superuser senza alcuna autenticazione presenta un grado di escalation più significativo.
 
 Di solito, ci si riferisce 
 a vertical escalation quando è possibile accedere a risorse concesse a utenti con maggiori privilegi (es. acquisire privilegi amministrativi per l'app), e 
@@ -24,7 +24,7 @@ a horizontal escalation quando è possibile accedere a risorse concesse ad accou
 
 ### Testing for Role/Privilege Manipulation
 
-In ogni porzione dell'app in cui l'utente può creare informazioni nel database (es. fare un pagamento, aggiungere un contatto, o inviare un messaggio), può ricevere informazioni (estratto conto, dettagli dell'ordine, etc.), o può eliminare informazioni (cancellare utenti, messaggi, etc.), è necessario registrare tale funzionalità.
+In ogni porzione dell'app in cui l'utente può inserire informazioni nel database (es. fare un pagamento, aggiungere un contatto, o inviare un messaggio), può ricevere informazioni (estratto conto, dettagli dell'ordine, etc.), o può eliminare informazioni (cancellare utenti, messaggi, etc.), è necessario registrare tale azione.
 Il tester dovrebbe provare ad accedere a tali funzioni con un utente diverso per verificare se è possibile accedere a funzioni che non dovrebbero essere permesse in base al ruolo/privilegio dell'utente (ma potrebbero essere concessi con un altro utente).
 
 #### Manipulation of User Group
@@ -70,7 +70,7 @@ Cosa succede se il tester modifica il valore della variabile `profile` in `SysAd
 
 #### Manipulation of Condition Value
 
-Per esempio: il server invia un messaggio di errore contenuto come valore nel parametro specifico in un insieme di codici di risposta, come segue:
+Per esempio: il server invia un messaggio di errore contenuto in un insieme di codici di risposta, come segue:
 
 ```
 @0`1`3`3``0`UC`1`Status`OK`SEC`5`1`0`ResultSet`0`PVValid`-1`0`0` Notifications`0`0`3`Command
@@ -93,7 +93,7 @@ Per esempio:
 
 `X-Forwarded-For: 8.1.1.1`
 
-In questo caso, se il sito valuta il valore dell'header `X-Forwarded-For` come indirizzo IP del client, 
+In questo caso, se il sito controlla il valore dell'header `X-Forwarded-For` come indirizzo IP del client, 
 il tester potrebbe cambiare il valore dell'indirizzo IP nell'header `X-Forwarded-For` per raggirare l'identificazione tramite indirizzo IP sorgente.
 
 ### URL Traversal
@@ -113,9 +113,8 @@ Per esempio: `startsWith()`, `endswith()`, `contains()`, `indexOf()`.
 ### Weak SessionID
 
 I Session ID deboli potrebbero essere vulnerabili ad attacchi di bruteforce.
-Per esempio, un sito usa MD5(password + userID) come sessionID.
-Allora, i tester potrebbero provare a generare il sessionID per gli altri utenti.
+Per esempio, se un sito usa MD5(password + userID) come sessionID, allora i tester potrebbero provare a generare il sessionID per gli altri utenti.
 
 ## Tools
 
-OWASP ZAP
+- OWASP ZAP
