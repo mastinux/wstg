@@ -63,7 +63,8 @@ Account](./WSTG/WSTG-IDNT-04.md)
 
 ## Session Management Testing
 
-- #TODO 183
+- [Testing for Session Management Schema](./WSTG/WSTG-SESS-01.md)
+- #TODO 189
 
 ## Input Validation Testing
 
