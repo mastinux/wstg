@@ -64,7 +64,8 @@ Account](./WSTG/WSTG-IDNT-04.md)
 ## Session Management Testing
 
 - [Testing for Session Management Schema](./WSTG/WSTG-SESS-01.md)
-- #TODO 189
+- [Testing for Cookies Attributes](./WSTG/WSTG-SESS-02.md)
+- #TODO 190
 
 ## Input Validation Testing
 
